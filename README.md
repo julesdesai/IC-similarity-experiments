@@ -12,12 +12,12 @@ This project provides three complementary similarity analysis tools for evaluati
 
 ## Features
 
-- 🔍 **Multi-modal Similarity Analysis**: Three different approaches to measure philosophical position similarity
-- 📊 **Comprehensive Reporting**: Generate detailed JSON, text, and markdown reports
-- 🎯 **False Positive/Negative Detection**: Specialized evaluation for position merging algorithms
-- 🌳 **Hierarchical Analysis**: Advanced similarity measurement considering position objections and sub-arguments
-- 📈 **Statistical Analysis**: Detailed statistics and comparative metrics across all similarity measures
-- 🔄 **Batch Processing**: Efficient processing of large evaluation datasets
+- **Multi-modal Similarity Analysis**: Three different approaches to measure philosophical position similarity
+- **Comprehensive Reporting**: Generate detailed JSON, text, and markdown reports
+- **False Positive/Negative Detection**: Specialized evaluation for position merging algorithms
+- **Hierarchical Analysis**: Advanced similarity measurement considering position objections and sub-arguments
+- **Statistical Analysis**: Detailed statistics and comparative metrics across all similarity measures
+- **Batch Processing**: Efficient processing of large evaluation datasets
 
 ## Installation
 
