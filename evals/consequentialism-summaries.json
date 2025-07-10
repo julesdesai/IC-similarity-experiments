@@ -1,0 +1,304 @@
+{
+  "positions": [
+    {
+      "position_id": "act_utilitarianism",
+      "summary": "Act Utilitarianism",
+      "theses": [
+        "The rightness of an action depends solely on the consequences of that particular action",
+        "An action is right if and only if it produces the greatest overall utility compared to alternative actions",
+        "Utility consists in the balance of pleasure over pain or preference satisfaction",
+        "Each person's utility counts equally in determining the total utility of consequences"
+      ]
+    },
+    {
+      "position_id": "rule_utilitarianism",
+      "summary": "Rule Utilitarianism",
+      "theses": [
+        "The rightness of an action depends on whether it conforms to rules that maximize utility",
+        "A rule is justified if and only if general acceptance of that rule produces the best consequences",
+        "Individual actions are evaluated by their conformity to utility-maximizing rules rather than their particular consequences",
+        "The consequences that matter are those of having a system of rules generally accepted and followed"
+      ]
+    },
+    {
+      "position_id": "maximizing_consequentialism",
+      "summary": "Maximizing Consequentialism",
+      "theses": [
+        "An action is morally right if and only if it produces the best possible consequences",
+        "Moral rightness requires achieving the maximum amount of good that can be achieved",
+        "All suboptimal actions are morally wrong regardless of how much good they produce",
+        "The evaluation of actions is based solely on a comparative ranking of total outcomes"
+      ]
+    },
+    {
+      "position_id": "satisficing_consequentialism",
+      "summary": "Satisficing Consequentialism",
+      "theses": [
+        "An action is morally right if it produces consequences that are good enough",
+        "There exists a threshold of goodness above which actions are morally permissible",
+        "Actions that produce sufficient good consequences are right even if better consequences were achievable",
+        "Moral rightness does not require maximizing good outcomes"
+      ]
+    },
+    {
+      "position_id": "scalar_consequentialism",
+      "summary": "Scalar Consequentialism",
+      "theses": [
+        "Actions are evaluated on a continuous scale of better and worse rather than right and wrong",
+        "There are no sharp moral boundaries between permissible and impermissible actions",
+        "Moral evaluation consists in ranking actions by their consequences without categorical judgments",
+        "The fundamental moral concepts are comparative rather than deontic"
+      ]
+    },
+    {
+      "position_id": "negative_utilitarianism",
+      "summary": "Negative Utilitarianism",
+      "theses": [
+        "The prevention of suffering takes moral priority over the promotion of happiness",
+        "An action is right if it minimizes the total amount of suffering in the world",
+        "Reducing negative utility is more morally important than increasing positive utility",
+        "The absence of pain is good while the absence of pleasure is merely not bad"
+      ]
+    },
+    {
+      "position_id": "preference_utilitarianism",
+      "summary": "Preference Utilitarianism",
+      "theses": [
+        "The rightness of actions depends on their tendency to satisfy or frustrate preferences",
+        "What is good is the satisfaction of actual preferences regardless of their content",
+        "An action is right if it maximizes overall preference satisfaction",
+        "The strength and number of satisfied preferences determines the utility of outcomes"
+      ]
+    },
+    {
+      "position_id": "hedonistic_utilitarianism",
+      "summary": "Hedonistic Utilitarianism",
+      "theses": [
+        "The only intrinsic good is pleasure and the only intrinsic bad is pain",
+        "Actions are right if and only if they maximize the balance of pleasure over pain",
+        "All valuable experiences can be reduced to their hedonic qualities",
+        "The moral value of consequences is determined entirely by the mental states they contain"
+      ]
+    },
+    {
+      "position_id": "ideal_utilitarianism",
+      "summary": "Ideal Utilitarianism",
+      "theses": [
+        "Multiple things are intrinsically good including pleasure, knowledge, beauty, and virtue",
+        "Actions are right if they maximize the total amount of intrinsic goods",
+        "The value of consequences cannot be reduced to a single measure like pleasure",
+        "Different intrinsic goods can be compared and aggregated to determine right action"
+      ]
+    },
+    {
+      "position_id": "actual_consequentialism",
+      "summary": "Actual Consequentialism",
+      "theses": [
+        "The rightness of an action depends on its actual consequences",
+        "What makes an action right or wrong are the outcomes that do in fact occur",
+        "Moral evaluation is retrospective based on what actually happened",
+        "The agent's beliefs or evidence about likely outcomes are irrelevant to rightness"
+      ]
+    },
+    {
+      "position_id": "expected_consequentialism",
+      "summary": "Expected Consequentialism",
+      "theses": [
+        "The rightness of an action depends on its expected consequences given available evidence",
+        "Actions are evaluated by the probability-weighted value of their possible outcomes",
+        "What makes an action right is having the highest expected utility at the time of decision",
+        "Moral evaluation must account for uncertainty about outcomes"
+      ]
+    },
+    {
+      "position_id": "global_consequentialism",
+      "summary": "Global Consequentialism",
+      "theses": [
+        "All evaluative focal points including acts, rules, motives, and character traits are assessed by consequences",
+        "The consequentialist principle applies directly to every object of moral evaluation",
+        "Nothing has intrinsic moral status independent of its consequences",
+        "The assessment of any moral object depends solely on the states of affairs it brings about"
+      ]
+    },
+    {
+      "position_id": "virtue_consequentialism",
+      "summary": "Virtue Consequentialism",
+      "theses": [
+        "Character traits are virtues if and only if they tend to produce good consequences",
+        "The moral status of virtues is determined entirely by their typical outcomes",
+        "A person of good character is one whose dispositions maximize expected utility",
+        "Virtue evaluation is derivative from and reducible to consequentialist assessment"
+      ]
+    },
+    {
+      "position_id": "prioritarianism",
+      "summary": "Prioritarianism",
+      "theses": [
+        "Benefits to individuals matter more morally the worse off those individuals are",
+        "The moral value of a benefit decreases as the welfare level of the recipient increases",
+        "Actions should be evaluated by the weighted sum of benefits where weights favor the worse off",
+        "Improving the welfare of the badly off has priority without requiring equality"
+      ]
+    },
+    {
+      "position_id": "sufficientarianism",
+      "summary": "Sufficientarianism",
+      "theses": [
+        "There is a threshold level of welfare below which people have urgent moral claims",
+        "Benefits to those below the sufficiency threshold have special moral importance",
+        "Once everyone has enough, further distributions have lesser or no moral significance",
+        "The primary moral concern is ensuring all individuals reach the sufficiency level"
+      ]
+    },
+    {
+      "position_id": "total_utilitarianism",
+      "summary": "Total Utilitarianism",
+      "theses": [
+        "The rightness of actions depends on the total sum of utility they produce",
+        "Adding lives worth living increases the value of an outcome",
+        "What matters morally is maximizing the total amount of utility across all affected individuals",
+        "Population size matters insofar as it affects the total sum of well-being"
+      ]
+    },
+    {
+      "position_id": "average_utilitarianism",
+      "summary": "Average Utilitarianism",
+      "theses": [
+        "The rightness of actions depends on the average utility per person they produce",
+        "What matters morally is maximizing the average well-being of the population",
+        "Adding lives affects the value of outcomes only through their impact on average utility",
+        "Population size matters only insofar as it affects the mean level of well-being"
+      ]
+    },
+    {
+      "position_id": "ethical_egoism",
+      "summary": "Ethical Egoism",
+      "theses": [
+        "Each agent ought to do whatever maximizes their own self-interest",
+        "The rightness of an action for an agent depends solely on consequences for that agent",
+        "Agents have no moral obligation to promote the interests of others",
+        "Rational self-interest is the foundation of all moral requirements"
+      ]
+    },
+    {
+      "position_id": "universal_consequentialism",
+      "summary": "Universal Consequentialism",
+      "theses": [
+        "The interests of all sentient beings must be considered in moral evaluation",
+        "Consequences matter equally regardless of species boundaries",
+        "The scope of moral consideration extends to all beings capable of welfare",
+        "Geographic, temporal, and species distance are morally irrelevant"
+      ]
+    },
+    {
+      "position_id": "progressive_consequentialism",
+      "summary": "Progressive Consequentialism",
+      "theses": [
+        "Actions are right if they make the world better than it would otherwise be",
+        "Moral requirements demand improvement but not maximization",
+        "Any action that improves the status quo is morally permissible",
+        "The baseline for evaluation is what would happen without intervention"
+      ]
+    },
+    {
+      "position_id": "motive_consequentialism",
+      "summary": "Motive Consequentialism",
+      "theses": [
+        "The moral quality of motives depends on the consequences of having those motives",
+        "A motive is good if and only if having it tends to produce good outcomes",
+        "Actions inherit their moral status from the consequences of the motives that produce them",
+        "Motive evaluation is prior to and determines act evaluation"
+      ]
+    },
+    {
+      "position_id": "direct_consequentialism",
+      "summary": "Direct Consequentialism",
+      "theses": [
+        "Each action is evaluated directly by its own consequences",
+        "The moral status of an act depends only on the outcomes it produces",
+        "There are no mediating factors between consequences and moral evaluation",
+        "Rules, virtues, and motives have no independent moral significance"
+      ]
+    },
+    {
+      "position_id": "indirect_consequentialism",
+      "summary": "Indirect Consequentialism",
+      "theses": [
+        "Actions are evaluated by their conformity to rules or dispositions that have good consequences",
+        "The link between act and evaluation is mediated by practices that maximize good outcomes",
+        "Direct calculation of consequences for each act is neither required nor recommended",
+        "Decision procedures and criteria of rightness can legitimately diverge"
+      ]
+    },
+    {
+      "position_id": "welfarist_consequentialism",
+      "summary": "Welfarist Consequentialism",
+      "theses": [
+        "Only the welfare of individuals has intrinsic moral significance",
+        "The goodness of outcomes is entirely determined by how they affect well-being",
+        "All moral values are reducible to their impact on individual welfare",
+        "Non-welfare goods matter only instrumentally to the extent they promote well-being"
+      ]
+    },
+    {
+      "position_id": "perfectionist_consequentialism",
+      "summary": "Perfectionist Consequentialism",
+      "theses": [
+        "Certain states of human excellence have intrinsic value independent of welfare",
+        "Actions are right if they maximize the realization of perfectionist goods",
+        "Knowledge, achievement, and virtue are valuable even if they don't increase well-being",
+        "The development of human capacities is morally significant apart from its hedonic effects"
+      ]
+    },
+    {
+      "position_id": "state_consequentialism",
+      "summary": "State Consequentialism",
+      "theses": [
+        "The moral evaluation of actions focuses on their consequences for the state or community",
+        "Collective welfare takes priority over individual welfare in moral calculations",
+        "The rightness of actions depends on their tendency to promote social harmony and order",
+        "Individual interests are subordinate to the common good of society"
+      ]
+    },
+    {
+      "position_id": "two_level_utilitarianism",
+      "summary": "Two-Level Utilitarianism",
+      "theses": [
+        "Moral thinking operates at both intuitive and critical levels",
+        "In everyday decisions, we should follow intuitive rules that generally maximize utility",
+        "In unusual or conflicting cases, we should engage in direct utilitarian calculation",
+        "The intuitive level is justified by its tendency to produce good outcomes at the critical level"
+      ]
+    },
+    {
+      "position_id": "person_affecting_consequentialism",
+      "summary": "Person-Affecting Consequentialism",
+      "theses": [
+        "An outcome can only be better or worse if it is better or worse for particular individuals",
+        "Creating new happy lives does not make an outcome better",
+        "Moral evaluation is restricted to effects on individuals who exist or will exist independently",
+        "The identity of affected individuals matters for determining the value of outcomes"
+      ]
+    },
+    {
+      "position_id": "objective_list_consequentialism",
+      "summary": "Objective List Consequentialism",
+      "theses": [
+        "There is an objective list of goods that make outcomes better",
+        "The items on this list have value independent of attitudes toward them",
+        "Actions are right if they maximize the realization of objective goods",
+        "The good is not reducible to mental states or preference satisfaction"
+      ]
+    },
+    {
+      "position_id": "agent_relative_consequentialism",
+      "summary": "Agent-Relative Consequentialism",
+      "theses": [
+        "The value of outcomes is relative to the agent performing the action",
+        "Agents have special obligations to produce good consequences for those close to them",
+        "The moral evaluation of actions must account for the agent's particular position and relationships",
+        "Partiality toward specific individuals is built into the consequentialist framework"
+      ]
+    }
+  ]
+}

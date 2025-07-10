@@ -1,0 +1,729 @@
+=== PHILOSOPHICAL POSITION LLM SIMILARITY ANALYSIS ===
+Generated: 2025-07-10 14:42:31
+
+=== SUMMARY STATISTICS ===
+Total pairs analyzed: 79
+False negatives: 40
+False positives: 39
+
+=== O4-MINI SIMILARITY STATISTICS ===
+Overall mean score: 95.95
+Overall std: 8.12
+Overall range: 60 - 100
+False negatives mean: 100.00
+False positives mean: 91.79
+
+=== RESULTS IN ORIGINAL ORDER ===
+Pair ID: fn_001 (false_negative)
+o4-mini Score: 100
+Original: Act Utilitarianism
+Comparison: Direct Outcome-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_002 (false_negative)
+o4-mini Score: 100
+Original: Rule Utilitarianism
+Comparison: Principle-Based Consequentialism
+--------------------------------------------------------------------------------
+Pair ID: fn_003 (false_negative)
+o4-mini Score: 100
+Original: Maximizing Consequentialism
+Comparison: Optimal Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_004 (false_negative)
+o4-mini Score: 100
+Original: Satisficing Consequentialism
+Comparison: Threshold-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_005 (false_negative)
+o4-mini Score: 100
+Original: Scalar Consequentialism
+Comparison: Gradient-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_006 (false_negative)
+o4-mini Score: 100
+Original: Negative Utilitarianism
+Comparison: Suffering-Minimization Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_007 (false_negative)
+o4-mini Score: 100
+Original: Preference Utilitarianism
+Comparison: Desire-Fulfillment Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_008 (false_negative)
+o4-mini Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Pleasure-Pain Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_009 (false_negative)
+o4-mini Score: 100
+Original: Ideal Utilitarianism
+Comparison: Pluralistic Value Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_010 (false_negative)
+o4-mini Score: 100
+Original: Actual Consequentialism
+Comparison: Realized-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_011 (false_negative)
+o4-mini Score: 100
+Original: Expected Consequentialism
+Comparison: Probabilistic Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_012 (false_negative)
+o4-mini Score: 100
+Original: Global Consequentialism
+Comparison: Universal Outcome-Based Assessment
+--------------------------------------------------------------------------------
+Pair ID: fn_013 (false_negative)
+o4-mini Score: 100
+Original: Virtue Consequentialism
+Comparison: Character-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_014 (false_negative)
+o4-mini Score: 100
+Original: Prioritarianism
+Comparison: Disadvantage-Weighted Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_015 (false_negative)
+o4-mini Score: 100
+Original: Sufficientarianism
+Comparison: Adequacy-Threshold Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_016 (false_negative)
+o4-mini Score: 100
+Original: Total Utilitarianism
+Comparison: Aggregate Welfare Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_017 (false_negative)
+o4-mini Score: 100
+Original: Average Utilitarianism
+Comparison: Mean Welfare Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_018 (false_negative)
+o4-mini Score: 100
+Original: Ethical Egoism
+Comparison: Self-Interest Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_019 (false_negative)
+o4-mini Score: 100
+Original: Universal Consequentialism
+Comparison: Impartial Sentience Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_020 (false_negative)
+o4-mini Score: 100
+Original: Progressive Consequentialism
+Comparison: Improvement-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_021 (false_negative)
+o4-mini Score: 100
+Original: Motive Consequentialism
+Comparison: Intention-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_022 (false_negative)
+o4-mini Score: 100
+Original: Direct Consequentialism
+Comparison: Immediate Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_023 (false_negative)
+o4-mini Score: 100
+Original: Indirect Consequentialism
+Comparison: Mediated Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_024 (false_negative)
+o4-mini Score: 100
+Original: Welfarist Consequentialism
+Comparison: Well-Being Focused Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_025 (false_negative)
+o4-mini Score: 100
+Original: Perfectionist Consequentialism
+Comparison: Excellence-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_026 (false_negative)
+o4-mini Score: 100
+Original: State Consequentialism
+Comparison: Collective Good Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_027 (false_negative)
+o4-mini Score: 100
+Original: Two-Level Utilitarianism
+Comparison: Dual-Tier Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_028 (false_negative)
+o4-mini Score: 100
+Original: Person-Affecting Consequentialism
+Comparison: Individual-Impact Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_029 (false_negative)
+o4-mini Score: 100
+Original: Objective List Consequentialism
+Comparison: Intrinsic Value Catalog Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_030 (false_negative)
+o4-mini Score: 100
+Original: Agent-Relative Consequentialism
+Comparison: Perspective-Dependent Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_031 (false_negative)
+o4-mini Score: 100
+Original: Act Utilitarianism
+Comparison: Case-by-Case Welfare Maximization
+--------------------------------------------------------------------------------
+Pair ID: fn_032 (false_negative)
+o4-mini Score: 100
+Original: Rule Utilitarianism
+Comparison: Systematic Welfare Optimization
+--------------------------------------------------------------------------------
+Pair ID: fn_033 (false_negative)
+o4-mini Score: 100
+Original: Maximizing Consequentialism
+Comparison: Peak Performance Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_034 (false_negative)
+o4-mini Score: 100
+Original: Satisficing Consequentialism
+Comparison: Adequacy Standards Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_035 (false_negative)
+o4-mini Score: 100
+Original: Scalar Consequentialism
+Comparison: Continuous Assessment Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_036 (false_negative)
+o4-mini Score: 100
+Original: Negative Utilitarianism
+Comparison: Harm Reduction Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_037 (false_negative)
+o4-mini Score: 100
+Original: Preference Utilitarianism
+Comparison: Desire Realization Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_038 (false_negative)
+o4-mini Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Experiential Quality Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_039 (false_negative)
+o4-mini Score: 100
+Original: Ideal Utilitarianism
+Comparison: Multi-Value Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_040 (false_negative)
+o4-mini Score: 100
+Original: Actual Consequentialism
+Comparison: Historical Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fp_001 (false_positive)
+o4-mini Score: 60
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Satisficing)
+--------------------------------------------------------------------------------
+Pair ID: fp_002 (false_positive)
+o4-mini Score: 100
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Weak Acceptance)
+--------------------------------------------------------------------------------
+Pair ID: fp_003 (false_positive)
+o4-mini Score: 95
+Original: Maximizing Consequentialism
+Comparison: Maximizing Consequentialism (Permissive)
+--------------------------------------------------------------------------------
+Pair ID: fp_004 (false_positive)
+o4-mini Score: 100
+Original: Satisficing Consequentialism
+Comparison: Satisficing Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_005 (false_positive)
+o4-mini Score: 100
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Lexical)
+--------------------------------------------------------------------------------
+Pair ID: fp_006 (false_positive)
+o4-mini Score: 75
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Informed)
+--------------------------------------------------------------------------------
+Pair ID: fp_007 (false_positive)
+o4-mini Score: 95
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Pluralistic)
+--------------------------------------------------------------------------------
+Pair ID: fp_008 (false_positive)
+o4-mini Score: 100
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Incommensurable)
+--------------------------------------------------------------------------------
+Pair ID: fp_009 (false_positive)
+o4-mini Score: 100
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Prospective)
+--------------------------------------------------------------------------------
+Pair ID: fp_010 (false_positive)
+o4-mini Score: 75
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Sufficient)
+--------------------------------------------------------------------------------
+Pair ID: fp_011 (false_positive)
+o4-mini Score: 90
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_012 (false_positive)
+o4-mini Score: 100
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_013 (false_positive)
+o4-mini Score: 75
+Original: Prioritarianism
+Comparison: Prioritarianism (Lexical)
+--------------------------------------------------------------------------------
+Pair ID: fp_014 (false_positive)
+o4-mini Score: 100
+Original: Sufficientarianism
+Comparison: Sufficientarianism (Weak)
+--------------------------------------------------------------------------------
+Pair ID: fp_015 (false_positive)
+o4-mini Score: 95
+Original: Total Utilitarianism
+Comparison: Total Utilitarianism (Conditional)
+--------------------------------------------------------------------------------
+Pair ID: fp_016 (false_positive)
+o4-mini Score: 100
+Original: Average Utilitarianism
+Comparison: Average Utilitarianism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_017 (false_positive)
+o4-mini Score: 90
+Original: Ethical Egoism
+Comparison: Ethical Egoism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_018 (false_positive)
+o4-mini Score: 90
+Original: Universal Consequentialism
+Comparison: Universal Consequentialism (Weighted)
+--------------------------------------------------------------------------------
+Pair ID: fp_019 (false_positive)
+o4-mini Score: 85
+Original: Progressive Consequentialism
+Comparison: Progressive Consequentialism (Significant)
+--------------------------------------------------------------------------------
+Pair ID: fp_020 (false_positive)
+o4-mini Score: 95
+Original: Motive Consequentialism
+Comparison: Motive Consequentialism (Weak Priority)
+--------------------------------------------------------------------------------
+Pair ID: fp_021 (false_positive)
+o4-mini Score: 95
+Original: Direct Consequentialism
+Comparison: Direct Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_022 (false_positive)
+o4-mini Score: 100
+Original: Indirect Consequentialism
+Comparison: Indirect Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_023 (false_positive)
+o4-mini Score: 90
+Original: Welfarist Consequentialism
+Comparison: Welfarist Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_024 (false_positive)
+o4-mini Score: 100
+Original: Perfectionist Consequentialism
+Comparison: Perfectionist Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_025 (false_positive)
+o4-mini Score: 95
+Original: State Consequentialism
+Comparison: State Consequentialism (Weighted)
+--------------------------------------------------------------------------------
+Pair ID: fp_027 (false_positive)
+o4-mini Score: 95
+Original: Person-Affecting Consequentialism
+Comparison: Person-Affecting Consequentialism (Generally)
+--------------------------------------------------------------------------------
+Pair ID: fp_028 (false_positive)
+o4-mini Score: 100
+Original: Objective List Consequentialism
+Comparison: Objective List Consequentialism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_029 (false_positive)
+o4-mini Score: 100
+Original: Agent-Relative Consequentialism
+Comparison: Agent-Relative Consequentialism (Strong)
+--------------------------------------------------------------------------------
+Pair ID: fp_030 (false_positive)
+o4-mini Score: 90
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_031 (false_positive)
+o4-mini Score: 100
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_032 (false_positive)
+o4-mini Score: 95
+Original: Scalar Consequentialism
+Comparison: Scalar Consequentialism (Threshold)
+--------------------------------------------------------------------------------
+Pair ID: fp_033 (false_positive)
+o4-mini Score: 90
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Satisficing)
+--------------------------------------------------------------------------------
+Pair ID: fp_034 (false_positive)
+o4-mini Score: 75
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Rational)
+--------------------------------------------------------------------------------
+Pair ID: fp_035 (false_positive)
+o4-mini Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_036 (false_positive)
+o4-mini Score: 75
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Sufficient)
+--------------------------------------------------------------------------------
+Pair ID: fp_037 (false_positive)
+o4-mini Score: 100
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_038 (false_positive)
+o4-mini Score: 75
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Reasonable)
+--------------------------------------------------------------------------------
+Pair ID: fp_039 (false_positive)
+o4-mini Score: 90
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Universal Application)
+--------------------------------------------------------------------------------
+Pair ID: fp_040 (false_positive)
+o4-mini Score: 95
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Partial Reduction)
+--------------------------------------------------------------------------------
+
+=== RESULTS SORTED BY SIMILARITY SCORE (HIGHEST TO LOWEST) ===
+Pair ID: fn_001 (false_negative) - Score: 100
+Original: Act Utilitarianism
+Comparison: Direct Outcome-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_002 (false_negative) - Score: 100
+Original: Rule Utilitarianism
+Comparison: Principle-Based Consequentialism
+--------------------------------------------------------------------------------
+Pair ID: fn_003 (false_negative) - Score: 100
+Original: Maximizing Consequentialism
+Comparison: Optimal Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_004 (false_negative) - Score: 100
+Original: Satisficing Consequentialism
+Comparison: Threshold-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_005 (false_negative) - Score: 100
+Original: Scalar Consequentialism
+Comparison: Gradient-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_006 (false_negative) - Score: 100
+Original: Negative Utilitarianism
+Comparison: Suffering-Minimization Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_007 (false_negative) - Score: 100
+Original: Preference Utilitarianism
+Comparison: Desire-Fulfillment Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_008 (false_negative) - Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Pleasure-Pain Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_009 (false_negative) - Score: 100
+Original: Ideal Utilitarianism
+Comparison: Pluralistic Value Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_010 (false_negative) - Score: 100
+Original: Actual Consequentialism
+Comparison: Realized-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_011 (false_negative) - Score: 100
+Original: Expected Consequentialism
+Comparison: Probabilistic Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_012 (false_negative) - Score: 100
+Original: Global Consequentialism
+Comparison: Universal Outcome-Based Assessment
+--------------------------------------------------------------------------------
+Pair ID: fn_013 (false_negative) - Score: 100
+Original: Virtue Consequentialism
+Comparison: Character-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_014 (false_negative) - Score: 100
+Original: Prioritarianism
+Comparison: Disadvantage-Weighted Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_015 (false_negative) - Score: 100
+Original: Sufficientarianism
+Comparison: Adequacy-Threshold Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_016 (false_negative) - Score: 100
+Original: Total Utilitarianism
+Comparison: Aggregate Welfare Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_017 (false_negative) - Score: 100
+Original: Average Utilitarianism
+Comparison: Mean Welfare Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_018 (false_negative) - Score: 100
+Original: Ethical Egoism
+Comparison: Self-Interest Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_019 (false_negative) - Score: 100
+Original: Universal Consequentialism
+Comparison: Impartial Sentience Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_020 (false_negative) - Score: 100
+Original: Progressive Consequentialism
+Comparison: Improvement-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_021 (false_negative) - Score: 100
+Original: Motive Consequentialism
+Comparison: Intention-Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_022 (false_negative) - Score: 100
+Original: Direct Consequentialism
+Comparison: Immediate Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_023 (false_negative) - Score: 100
+Original: Indirect Consequentialism
+Comparison: Mediated Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_024 (false_negative) - Score: 100
+Original: Welfarist Consequentialism
+Comparison: Well-Being Focused Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_025 (false_negative) - Score: 100
+Original: Perfectionist Consequentialism
+Comparison: Excellence-Based Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_026 (false_negative) - Score: 100
+Original: State Consequentialism
+Comparison: Collective Good Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_027 (false_negative) - Score: 100
+Original: Two-Level Utilitarianism
+Comparison: Dual-Tier Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_028 (false_negative) - Score: 100
+Original: Person-Affecting Consequentialism
+Comparison: Individual-Impact Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_029 (false_negative) - Score: 100
+Original: Objective List Consequentialism
+Comparison: Intrinsic Value Catalog Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_030 (false_negative) - Score: 100
+Original: Agent-Relative Consequentialism
+Comparison: Perspective-Dependent Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_031 (false_negative) - Score: 100
+Original: Act Utilitarianism
+Comparison: Case-by-Case Welfare Maximization
+--------------------------------------------------------------------------------
+Pair ID: fn_032 (false_negative) - Score: 100
+Original: Rule Utilitarianism
+Comparison: Systematic Welfare Optimization
+--------------------------------------------------------------------------------
+Pair ID: fn_033 (false_negative) - Score: 100
+Original: Maximizing Consequentialism
+Comparison: Peak Performance Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_034 (false_negative) - Score: 100
+Original: Satisficing Consequentialism
+Comparison: Adequacy Standards Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_035 (false_negative) - Score: 100
+Original: Scalar Consequentialism
+Comparison: Continuous Assessment Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_036 (false_negative) - Score: 100
+Original: Negative Utilitarianism
+Comparison: Harm Reduction Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_037 (false_negative) - Score: 100
+Original: Preference Utilitarianism
+Comparison: Desire Realization Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_038 (false_negative) - Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Experiential Quality Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_039 (false_negative) - Score: 100
+Original: Ideal Utilitarianism
+Comparison: Multi-Value Ethics
+--------------------------------------------------------------------------------
+Pair ID: fn_040 (false_negative) - Score: 100
+Original: Actual Consequentialism
+Comparison: Historical Outcome Ethics
+--------------------------------------------------------------------------------
+Pair ID: fp_002 (false_positive) - Score: 100
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Weak Acceptance)
+--------------------------------------------------------------------------------
+Pair ID: fp_004 (false_positive) - Score: 100
+Original: Satisficing Consequentialism
+Comparison: Satisficing Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_005 (false_positive) - Score: 100
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Lexical)
+--------------------------------------------------------------------------------
+Pair ID: fp_008 (false_positive) - Score: 100
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Incommensurable)
+--------------------------------------------------------------------------------
+Pair ID: fp_009 (false_positive) - Score: 100
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Prospective)
+--------------------------------------------------------------------------------
+Pair ID: fp_012 (false_positive) - Score: 100
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_014 (false_positive) - Score: 100
+Original: Sufficientarianism
+Comparison: Sufficientarianism (Weak)
+--------------------------------------------------------------------------------
+Pair ID: fp_016 (false_positive) - Score: 100
+Original: Average Utilitarianism
+Comparison: Average Utilitarianism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_022 (false_positive) - Score: 100
+Original: Indirect Consequentialism
+Comparison: Indirect Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_024 (false_positive) - Score: 100
+Original: Perfectionist Consequentialism
+Comparison: Perfectionist Consequentialism (Optimizing)
+--------------------------------------------------------------------------------
+Pair ID: fp_028 (false_positive) - Score: 100
+Original: Objective List Consequentialism
+Comparison: Objective List Consequentialism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_029 (false_positive) - Score: 100
+Original: Agent-Relative Consequentialism
+Comparison: Agent-Relative Consequentialism (Strong)
+--------------------------------------------------------------------------------
+Pair ID: fp_031 (false_positive) - Score: 100
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_035 (false_positive) - Score: 100
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Optimize)
+--------------------------------------------------------------------------------
+Pair ID: fp_037 (false_positive) - Score: 100
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_003 (false_positive) - Score: 95
+Original: Maximizing Consequentialism
+Comparison: Maximizing Consequentialism (Permissive)
+--------------------------------------------------------------------------------
+Pair ID: fp_007 (false_positive) - Score: 95
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Pluralistic)
+--------------------------------------------------------------------------------
+Pair ID: fp_015 (false_positive) - Score: 95
+Original: Total Utilitarianism
+Comparison: Total Utilitarianism (Conditional)
+--------------------------------------------------------------------------------
+Pair ID: fp_020 (false_positive) - Score: 95
+Original: Motive Consequentialism
+Comparison: Motive Consequentialism (Weak Priority)
+--------------------------------------------------------------------------------
+Pair ID: fp_021 (false_positive) - Score: 95
+Original: Direct Consequentialism
+Comparison: Direct Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_025 (false_positive) - Score: 95
+Original: State Consequentialism
+Comparison: State Consequentialism (Weighted)
+--------------------------------------------------------------------------------
+Pair ID: fp_027 (false_positive) - Score: 95
+Original: Person-Affecting Consequentialism
+Comparison: Person-Affecting Consequentialism (Generally)
+--------------------------------------------------------------------------------
+Pair ID: fp_032 (false_positive) - Score: 95
+Original: Scalar Consequentialism
+Comparison: Scalar Consequentialism (Threshold)
+--------------------------------------------------------------------------------
+Pair ID: fp_040 (false_positive) - Score: 95
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Partial Reduction)
+--------------------------------------------------------------------------------
+Pair ID: fp_011 (false_positive) - Score: 90
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_017 (false_positive) - Score: 90
+Original: Ethical Egoism
+Comparison: Ethical Egoism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_018 (false_positive) - Score: 90
+Original: Universal Consequentialism
+Comparison: Universal Consequentialism (Weighted)
+--------------------------------------------------------------------------------
+Pair ID: fp_023 (false_positive) - Score: 90
+Original: Welfarist Consequentialism
+Comparison: Welfarist Consequentialism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_030 (false_positive) - Score: 90
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Primarily)
+--------------------------------------------------------------------------------
+Pair ID: fp_033 (false_positive) - Score: 90
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Satisficing)
+--------------------------------------------------------------------------------
+Pair ID: fp_039 (false_positive) - Score: 90
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Universal Application)
+--------------------------------------------------------------------------------
+Pair ID: fp_019 (false_positive) - Score: 85
+Original: Progressive Consequentialism
+Comparison: Progressive Consequentialism (Significant)
+--------------------------------------------------------------------------------
+Pair ID: fp_006 (false_positive) - Score: 75
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Informed)
+--------------------------------------------------------------------------------
+Pair ID: fp_010 (false_positive) - Score: 75
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Sufficient)
+--------------------------------------------------------------------------------
+Pair ID: fp_013 (false_positive) - Score: 75
+Original: Prioritarianism
+Comparison: Prioritarianism (Lexical)
+--------------------------------------------------------------------------------
+Pair ID: fp_034 (false_positive) - Score: 75
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Rational)
+--------------------------------------------------------------------------------
+Pair ID: fp_036 (false_positive) - Score: 75
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Sufficient)
+--------------------------------------------------------------------------------
+Pair ID: fp_038 (false_positive) - Score: 75
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Reasonable)
+--------------------------------------------------------------------------------
+Pair ID: fp_001 (false_positive) - Score: 60
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Satisficing)
+--------------------------------------------------------------------------------

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "timestamp": "2025-07-10T17:55:09.035107",
+    "total_pairs": 79,
+    "false_negatives": 40,
+    "false_positives": 39,
+    "evaluation_method": "hierarchical_similarity_with_hungarian_algorithm"
+  },
+  "statistics": {
+    "overall": {
+      "node_similarity": {
+        "count": 79,
+        "mean": 0.8421991746134343,
+        "std": 0.12005890011511516,
+        "min": 0.6126642407129762,
+        "max": 0.9839212272230946,
+        "median": 0.8510177477516039
+      },
+      "children_similarity": {
+        "count": 79,
+        "mean": 0.7343572070513648,
+        "std": 0.09919994159355564,
+        "min": 0.0,
+        "max": 0.8599026422804016,
+        "median": 0.736729647417531
+      },
+      "hierarchical_similarity": {
+        "count": 79,
+        "mean": 0.7990623875886065,
+        "std": 0.09179933961065409,
+        "min": 0.5747008520295671,
+        "max": 0.9142161668618265,
+        "median": 0.7915605624689411
+      }
+    },
+    "false_negatives": {
+      "node_similarity": {
+        "count": 40,
+        "mean": 0.7306407366061961,
+        "std": 0.05559364326258282,
+        "min": 0.6126642407129762,
+        "max": 0.8510177477516039,
+        "median": 0.7337195947255879
+      },
+      "children_similarity": {
+        "count": 40,
+        "mean": 0.7083747438225896,
+        "std": 0.03768118098127644,
+        "min": 0.6360173190852498,
+        "max": 0.8039649388985359,
+        "median": 0.7103843094854423
+      },
+      "hierarchical_similarity": {
+        "count": 40,
+        "mean": 0.7217343394927536,
+        "std": 0.04317920764572247,
+        "min": 0.6309657026893432,
+        "max": 0.8053025076179747,
+        "median": 0.7298450121690165
+      }
+    },
+    "false_positives": {
+      "node_similarity": {
+        "count": 39,
+        "mean": 0.9566180853900891,
+        "std": 0.013110664272550388,
+        "min": 0.9184071983026101,
+        "max": 0.9839212272230946,
+        "median": 0.9578347533826118
+      },
+      "children_similarity": {
+        "count": 39,
+        "mean": 0.7610058872860056,
+        "std": 0.13067039357906582,
+        "min": 0.0,
+        "max": 0.8599026422804016,
+        "median": 0.7755350602227165
+      },
+      "hierarchical_similarity": {
+        "count": 39,
+        "mean": 0.8783732061484559,
+        "std": 0.05229637188706205,
+        "min": 0.5747008520295671,
+        "max": 0.9142161668618265,
+        "median": 0.882355442495485
+      }
+    }
+  },
+  "results_by_original_order": [
+    {
+      "pair_id": "fn_001",
+      "pair_type": "false_negative",
+      "node_similarity": 0.6256712978786428,
+      "children_similarity": 0.6389073099053935,
+      "hierarchical_similarity": 0.6309657026893432,
+      "objection_matches": [
+        {
+          "original_objection_index": 

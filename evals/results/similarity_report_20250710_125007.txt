@@ -1,0 +1,1060 @@
+=== PHILOSOPHICAL POSITION SIMILARITY ANALYSIS ===
+Generated: 2025-07-10 12:50:07
+
+=== SUMMARY STATISTICS ===
+Total pairs analyzed: 79
+False negatives: 40
+False positives: 39
+
+=== OVERALL SIMILARITY STATISTICS ===
+Mean similarity: 0.8149
+Standard deviation: 0.1426
+Minimum similarity: 0.5567
+Maximum similarity: 0.9929
+Median similarity: 0.8221
+
+=== FALSE NEGATIVES SIMILARITY STATISTICS ===
+Mean similarity: 0.6807
+Standard deviation: 0.0584
+Minimum similarity: 0.5567
+Maximum similarity: 0.8221
+Median similarity: 0.6748
+
+=== FALSE POSITIVES SIMILARITY STATISTICS ===
+Mean similarity: 0.9525
+Standard deviation: 0.0159
+Minimum similarity: 0.9107
+Maximum similarity: 0.9929
+Median similarity: 0.9550
+
+=== DETAILED RESULTS ===
+
+--- RESULTS SORTED BY SIMILARITY (HIGHEST TO LOWEST) ---
+Pair ID: fp_027 (false_positive)
+Cosine Similarity: 0.9929
+Original: Person-Affecting Consequentialism
+Comparison: Person-Affecting Consequentialism (Generally)
+Modification Type: Threshold Introduction
+Key Difference: Added 'generally' - allows for possible exceptions where creating happy lives might make outcomes better
+--------------------------------------------------------------------------------
+Pair ID: fp_011 (false_positive)
+Cosine Similarity: 0.9787
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some non-consequentialist factors in moral assessment
+--------------------------------------------------------------------------------
+Pair ID: fp_003 (false_positive)
+Cosine Similarity: 0.9775
+Original: Maximizing Consequentialism
+Comparison: Maximizing Consequentialism (Permissive)
+Modification Type: Scope Modification
+Key Difference: Changed from 'all' to 'most' suboptimal actions being wrong - allows for some suboptimal actions to be permissible
+--------------------------------------------------------------------------------
+Pair ID: fp_039 (false_positive)
+Cosine Similarity: 0.9701
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Universal Application)
+Modification Type: Scope Modification
+Key Difference: Changed from 'All' to 'Most' - allows for some evaluative focal points to escape consequentialist assessment
+--------------------------------------------------------------------------------
+Pair ID: fp_030 (false_positive)
+Cosine Similarity: 0.9700
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some non-consequentialist factors in determining rightness
+--------------------------------------------------------------------------------
+Pair ID: fp_037 (false_positive)
+Cosine Similarity: 0.9668
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Added 'primarily' - allows for some non-actual factors to influence rightness determination
+--------------------------------------------------------------------------------
+Pair ID: fp_005 (false_positive)
+Cosine Similarity: 0.9632
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Lexical)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'moral priority' to 'absolute priority' - creates lexical ordering where no amount of happiness can outweigh preventing suffering
+--------------------------------------------------------------------------------
+Pair ID: fp_013 (false_positive)
+Cosine Similarity: 0.9623
+Original: Prioritarianism
+Comparison: Prioritarianism (Lexical)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'priority' to 'absolute priority' - creates lexical ordering where benefits to worst off always trump benefits to better off
+--------------------------------------------------------------------------------
+Pair ID: fp_021 (false_positive)
+Cosine Similarity: 0.9622
+Original: Direct Consequentialism
+Comparison: Direct Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'only' to 'primarily' - allows for some non-consequentialist factors in act evaluation
+--------------------------------------------------------------------------------
+Pair ID: fp_032 (false_positive)
+Cosine Similarity: 0.9619
+Original: Scalar Consequentialism
+Comparison: Scalar Consequentialism (Threshold)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'no' to 'few' sharp boundaries - allows for some threshold effects while maintaining scalar approach
+--------------------------------------------------------------------------------
+Pair ID: fp_024 (false_positive)
+Cosine Similarity: 0.9616
+Original: Perfectionist Consequentialism
+Comparison: Perfectionist Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization of perfectionist goods
+--------------------------------------------------------------------------------
+Pair ID: fp_017 (false_positive)
+Cosine Similarity: 0.9612
+Original: Ethical Egoism
+Comparison: Ethical Egoism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some moral consideration of others' interests
+--------------------------------------------------------------------------------
+Pair ID: fp_014 (false_positive)
+Cosine Similarity: 0.9599
+Original: Sufficientarianism
+Comparison: Sufficientarianism (Weak)
+Modification Type: Logical Operator Adjustment
+Key Difference: Removed 'or no' - maintains that distributions above threshold have some moral significance rather than potentially none
+--------------------------------------------------------------------------------
+Pair ID: fp_004 (false_positive)
+Cosine Similarity: 0.9590
+Original: Satisficing Consequentialism
+Comparison: Satisficing Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximizing' to 'optimizing' - optimizing allows for constraint satisfaction whereas maximizing is purely about achieving the highest value
+--------------------------------------------------------------------------------
+Pair ID: fp_008 (false_positive)
+Cosine Similarity: 0.9583
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Incommensurable)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'aggregated' to 'ranked' - suggests ordinal rather than cardinal comparison of incommensurable goods
+--------------------------------------------------------------------------------
+Pair ID: fp_035 (false_positive)
+Cosine Similarity: 0.9581
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_023 (false_positive)
+Cosine Similarity: 0.9571
+Original: Welfarist Consequentialism
+Comparison: Welfarist Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'Only' to 'Primarily' - allows for some non-welfare values to have intrinsic moral significance
+--------------------------------------------------------------------------------
+Pair ID: fp_033 (false_positive)
+Cosine Similarity: 0.9560
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Satisficing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'minimizes' to 'sufficiently reduces' - satisficing rather than maximizing approach to suffering reduction
+--------------------------------------------------------------------------------
+Pair ID: fp_009 (false_positive)
+Cosine Similarity: 0.9551
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Prospective)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'retrospective' to 'objective' - removes temporal restriction on when evaluation can occur
+--------------------------------------------------------------------------------
+Pair ID: fp_038 (false_positive)
+Cosine Similarity: 0.9550
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Reasonable)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'highest' to 'reasonable' - sets threshold rather than maximizing requirement
+--------------------------------------------------------------------------------
+Pair ID: fp_025 (false_positive)
+Cosine Similarity: 0.9534
+Original: State Consequentialism
+Comparison: State Consequentialism (Weighted)
+Modification Type: Threshold Introduction
+Key Difference: Added 'generally' - allows for exceptions where individual interests might take precedence
+--------------------------------------------------------------------------------
+Pair ID: fp_028 (false_positive)
+Cosine Similarity: 0.9525
+Original: Objective List Consequentialism
+Comparison: Objective List Consequentialism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization of objective goods
+--------------------------------------------------------------------------------
+Pair ID: fp_029 (false_positive)
+Cosine Similarity: 0.9486
+Original: Agent-Relative Consequentialism
+Comparison: Agent-Relative Consequentialism (Strong)
+Modification Type: Critical Term Substitution
+Key Difference: Added 'Strong' before partiality - suggests more extensive agent-relative permissions than basic partiality
+--------------------------------------------------------------------------------
+Pair ID: fp_012 (false_positive)
+Cosine Similarity: 0.9479
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_015 (false_positive)
+Cosine Similarity: 0.9478
+Original: Total Utilitarianism
+Comparison: Total Utilitarianism (Conditional)
+Modification Type: Threshold Introduction
+Key Difference: Added 'typically' - suggests there may be conditions under which adding lives worth living doesn't increase value
+--------------------------------------------------------------------------------
+Pair ID: fp_031 (false_positive)
+Cosine Similarity: 0.9477
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization of utility
+--------------------------------------------------------------------------------
+Pair ID: fp_019 (false_positive)
+Cosine Similarity: 0.9475
+Original: Progressive Consequentialism
+Comparison: Progressive Consequentialism (Significant)
+Modification Type: Threshold Introduction
+Key Difference: Added 'significantly' - requires improvements to meet a threshold rather than any improvement being sufficient
+--------------------------------------------------------------------------------
+Pair ID: fp_016 (false_positive)
+Cosine Similarity: 0.9475
+Original: Average Utilitarianism
+Comparison: Average Utilitarianism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximizing' to 'optimizing' - allows for constraint-sensitive rather than pure maximization of average utility
+--------------------------------------------------------------------------------
+Pair ID: fp_002 (false_positive)
+Cosine Similarity: 0.9470
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Weak Acceptance)
+Modification Type: Logical Operator Adjustment
+Key Difference: Removed biconditional 'if and only if' - rules can be justified by producing best consequences but this may not be the only justification
+--------------------------------------------------------------------------------
+Pair ID: fp_036 (false_positive)
+Cosine Similarity: 0.9445
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Sufficient)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize the total amount' to 'realize sufficient amounts' - satisficing rather than maximizing approach
+--------------------------------------------------------------------------------
+Pair ID: fp_007 (false_positive)
+Cosine Similarity: 0.9405
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Pluralistic)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'only' to 'primary' - allows for other intrinsic goods while maintaining pleasure's dominance
+--------------------------------------------------------------------------------
+Pair ID: fp_034 (false_positive)
+Cosine Similarity: 0.9399
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Rational)
+Modification Type: Scope Modification
+Key Difference: Changed from 'actual' to 'rational' preferences - only preferences meeting rationality criteria count morally
+--------------------------------------------------------------------------------
+Pair ID: fp_018 (false_positive)
+Cosine Similarity: 0.9397
+Original: Universal Consequentialism
+Comparison: Universal Consequentialism (Weighted)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'equally' to 'proportionally' - allows for differential weighting based on capacity or other factors
+--------------------------------------------------------------------------------
+Pair ID: fp_010 (false_positive)
+Cosine Similarity: 0.9381
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Sufficient)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'highest' to 'sufficient' expected utility - satisficing rather than maximizing under uncertainty
+--------------------------------------------------------------------------------
+Pair ID: fp_040 (false_positive)
+Cosine Similarity: 0.9349
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Partial Reduction)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'entirely' to 'largely' - allows for some non-consequentialist factors in virtue evaluation
+--------------------------------------------------------------------------------
+Pair ID: fp_001 (false_positive)
+Cosine Similarity: 0.9287
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Satisficing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from maximizing to satisficing requirement - actions need only produce sufficient rather than greatest utility
+--------------------------------------------------------------------------------
+Pair ID: fp_006 (false_positive)
+Cosine Similarity: 0.9266
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Informed)
+Modification Type: Scope Modification
+Key Difference: Changed from 'actual' to 'informed' preferences - only preferences formed with adequate information count morally
+--------------------------------------------------------------------------------
+Pair ID: fp_022 (false_positive)
+Cosine Similarity: 0.9179
+Original: Indirect Consequentialism
+Comparison: Indirect Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_020 (false_positive)
+Cosine Similarity: 0.9107
+Original: Motive Consequentialism
+Comparison: Motive Consequentialism (Weak Priority)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'determines' to 'influences' - weakens the claim about motive priority in act evaluation
+--------------------------------------------------------------------------------
+Pair ID: fn_018 (false_negative)
+Cosine Similarity: 0.8221
+Original: Ethical Egoism
+Comparison: Self-Interest Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_008 (false_negative)
+Cosine Similarity: 0.7723
+Original: Hedonistic Utilitarianism
+Comparison: Pleasure-Pain Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_025 (false_negative)
+Cosine Similarity: 0.7585
+Original: Perfectionist Consequentialism
+Comparison: Excellence-Based Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_006 (false_negative)
+Cosine Similarity: 0.7482
+Original: Negative Utilitarianism
+Comparison: Suffering-Minimization Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_024 (false_negative)
+Cosine Similarity: 0.7451
+Original: Welfarist Consequentialism
+Comparison: Well-Being Focused Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_028 (false_negative)
+Cosine Similarity: 0.7414
+Original: Person-Affecting Consequentialism
+Comparison: Individual-Impact Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_004 (false_negative)
+Cosine Similarity: 0.7357
+Original: Satisficing Consequentialism
+Comparison: Threshold-Based Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_036 (false_negative)
+Cosine Similarity: 0.7354
+Original: Negative Utilitarianism
+Comparison: Harm Reduction Ethics
+Reformulation Strategies: vocabulary_substitution, logical_equivalence_transformation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_015 (false_negative)
+Cosine Similarity: 0.7335
+Original: Sufficientarianism
+Comparison: Adequacy-Threshold Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_003 (false_negative)
+Cosine Similarity: 0.7329
+Original: Maximizing Consequentialism
+Comparison: Optimal Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, expansion_compression
+--------------------------------------------------------------------------------
+Pair ID: fn_020 (false_negative)
+Cosine Similarity: 0.7289
+Original: Progressive Consequentialism
+Comparison: Improvement-Based Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_013 (false_negative)
+Cosine Similarity: 0.7196
+Original: Virtue Consequentialism
+Comparison: Character-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_019 (false_negative)
+Cosine Similarity: 0.7175
+Original: Universal Consequentialism
+Comparison: Impartial Sentience Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_011 (false_negative)
+Cosine Similarity: 0.7116
+Original: Expected Consequentialism
+Comparison: Probabilistic Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_010 (false_negative)
+Cosine Similarity: 0.7105
+Original: Actual Consequentialism
+Comparison: Realized-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_026 (false_negative)
+Cosine Similarity: 0.7036
+Original: State Consequentialism
+Comparison: Collective Good Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_027 (false_negative)
+Cosine Similarity: 0.6978
+Original: Two-Level Utilitarianism
+Comparison: Dual-Tier Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_017 (false_negative)
+Cosine Similarity: 0.6965
+Original: Average Utilitarianism
+Comparison: Mean Welfare Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_022 (false_negative)
+Cosine Similarity: 0.6836
+Original: Direct Consequentialism
+Comparison: Immediate Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_014 (false_negative)
+Cosine Similarity: 0.6751
+Original: Prioritarianism
+Comparison: Disadvantage-Weighted Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_040 (false_negative)
+Cosine Similarity: 0.6744
+Original: Actual Consequentialism
+Comparison: Historical Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_030 (false_negative)
+Cosine Similarity: 0.6737
+Original: Agent-Relative Consequentialism
+Comparison: Perspective-Dependent Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_039 (false_negative)
+Cosine Similarity: 0.6713
+Original: Ideal Utilitarianism
+Comparison: Multi-Value Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_023 (false_negative)
+Cosine Similarity: 0.6687
+Original: Indirect Consequentialism
+Comparison: Mediated Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_035 (false_negative)
+Cosine Similarity: 0.6680
+Original: Scalar Consequentialism
+Comparison: Continuous Assessment Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_012 (false_negative)
+Cosine Similarity: 0.6579
+Original: Global Consequentialism
+Comparison: Universal Outcome-Based Assessment
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_016 (false_negative)
+Cosine Similarity: 0.6528
+Original: Total Utilitarianism
+Comparison: Aggregate Welfare Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_034 (false_negative)
+Cosine Similarity: 0.6511
+Original: Satisficing Consequentialism
+Comparison: Adequacy Standards Ethics
+Reformulation Strategies: vocabulary_substitution, logical_equivalence_transformation, expansion_compression
+--------------------------------------------------------------------------------
+Pair ID: fn_002 (false_negative)
+Cosine Similarity: 0.6476
+Original: Rule Utilitarianism
+Comparison: Principle-Based Consequentialism
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_009 (false_negative)
+Cosine Similarity: 0.6397
+Original: Ideal Utilitarianism
+Comparison: Pluralistic Value Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_021 (false_negative)
+Cosine Similarity: 0.6301
+Original: Motive Consequentialism
+Comparison: Intention-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_038 (false_negative)
+Cosine Similarity: 0.6283
+Original: Hedonistic Utilitarianism
+Comparison: Experiential Quality Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_029 (false_negative)
+Cosine Similarity: 0.6250
+Original: Objective List Consequentialism
+Comparison: Intrinsic Value Catalog Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_033 (false_negative)
+Cosine Similarity: 0.6240
+Original: Maximizing Consequentialism
+Comparison: Peak Performance Ethics
+Reformulation Strategies: technical_colloquial_translation, vocabulary_substitution, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_005 (false_negative)
+Cosine Similarity: 0.6213
+Original: Scalar Consequentialism
+Comparison: Gradient-Based Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_031 (false_negative)
+Cosine Similarity: 0.6211
+Original: Act Utilitarianism
+Comparison: Case-by-Case Welfare Maximization
+Reformulation Strategies: expansion_compression, vocabulary_substitution, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_007 (false_negative)
+Cosine Similarity: 0.6075
+Original: Preference Utilitarianism
+Comparison: Desire-Fulfillment Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_032 (false_negative)
+Cosine Similarity: 0.5766
+Original: Rule Utilitarianism
+Comparison: Systematic Welfare Optimization
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_001 (false_negative)
+Cosine Similarity: 0.5608
+Original: Act Utilitarianism
+Comparison: Direct Outcome-Based Ethics
+Reformulation Strategies: syntactic_transformation, vocabulary_substitution, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_037 (false_negative)
+Cosine Similarity: 0.5567
+Original: Preference Utilitarianism
+Comparison: Desire Realization Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, expansion_compression
+--------------------------------------------------------------------------------
+
+--- RESULTS IN ORIGINAL ORDER (FN_001, FN_002, ..., FP_001, FP_002, ...) ---
+Pair ID: fn_001 (false_negative)
+Cosine Similarity: 0.5608
+Original: Act Utilitarianism
+Comparison: Direct Outcome-Based Ethics
+Reformulation Strategies: syntactic_transformation, vocabulary_substitution, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_002 (false_negative)
+Cosine Similarity: 0.6476
+Original: Rule Utilitarianism
+Comparison: Principle-Based Consequentialism
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_003 (false_negative)
+Cosine Similarity: 0.7329
+Original: Maximizing Consequentialism
+Comparison: Optimal Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, expansion_compression
+--------------------------------------------------------------------------------
+Pair ID: fn_004 (false_negative)
+Cosine Similarity: 0.7357
+Original: Satisficing Consequentialism
+Comparison: Threshold-Based Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_005 (false_negative)
+Cosine Similarity: 0.6213
+Original: Scalar Consequentialism
+Comparison: Gradient-Based Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_006 (false_negative)
+Cosine Similarity: 0.7482
+Original: Negative Utilitarianism
+Comparison: Suffering-Minimization Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_007 (false_negative)
+Cosine Similarity: 0.6075
+Original: Preference Utilitarianism
+Comparison: Desire-Fulfillment Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_008 (false_negative)
+Cosine Similarity: 0.7723
+Original: Hedonistic Utilitarianism
+Comparison: Pleasure-Pain Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_009 (false_negative)
+Cosine Similarity: 0.6397
+Original: Ideal Utilitarianism
+Comparison: Pluralistic Value Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_010 (false_negative)
+Cosine Similarity: 0.7105
+Original: Actual Consequentialism
+Comparison: Realized-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_011 (false_negative)
+Cosine Similarity: 0.7116
+Original: Expected Consequentialism
+Comparison: Probabilistic Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_012 (false_negative)
+Cosine Similarity: 0.6579
+Original: Global Consequentialism
+Comparison: Universal Outcome-Based Assessment
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_013 (false_negative)
+Cosine Similarity: 0.7196
+Original: Virtue Consequentialism
+Comparison: Character-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_014 (false_negative)
+Cosine Similarity: 0.6751
+Original: Prioritarianism
+Comparison: Disadvantage-Weighted Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_015 (false_negative)
+Cosine Similarity: 0.7335
+Original: Sufficientarianism
+Comparison: Adequacy-Threshold Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_016 (false_negative)
+Cosine Similarity: 0.6528
+Original: Total Utilitarianism
+Comparison: Aggregate Welfare Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_017 (false_negative)
+Cosine Similarity: 0.6965
+Original: Average Utilitarianism
+Comparison: Mean Welfare Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_018 (false_negative)
+Cosine Similarity: 0.8221
+Original: Ethical Egoism
+Comparison: Self-Interest Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_019 (false_negative)
+Cosine Similarity: 0.7175
+Original: Universal Consequentialism
+Comparison: Impartial Sentience Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_020 (false_negative)
+Cosine Similarity: 0.7289
+Original: Progressive Consequentialism
+Comparison: Improvement-Based Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_021 (false_negative)
+Cosine Similarity: 0.6301
+Original: Motive Consequentialism
+Comparison: Intention-Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_022 (false_negative)
+Cosine Similarity: 0.6836
+Original: Direct Consequentialism
+Comparison: Immediate Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_023 (false_negative)
+Cosine Similarity: 0.6687
+Original: Indirect Consequentialism
+Comparison: Mediated Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_024 (false_negative)
+Cosine Similarity: 0.7451
+Original: Welfarist Consequentialism
+Comparison: Well-Being Focused Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_025 (false_negative)
+Cosine Similarity: 0.7585
+Original: Perfectionist Consequentialism
+Comparison: Excellence-Based Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_026 (false_negative)
+Cosine Similarity: 0.7036
+Original: State Consequentialism
+Comparison: Collective Good Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_027 (false_negative)
+Cosine Similarity: 0.6978
+Original: Two-Level Utilitarianism
+Comparison: Dual-Tier Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_028 (false_negative)
+Cosine Similarity: 0.7414
+Original: Person-Affecting Consequentialism
+Comparison: Individual-Impact Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_029 (false_negative)
+Cosine Similarity: 0.6250
+Original: Objective List Consequentialism
+Comparison: Intrinsic Value Catalog Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_030 (false_negative)
+Cosine Similarity: 0.6737
+Original: Agent-Relative Consequentialism
+Comparison: Perspective-Dependent Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_031 (false_negative)
+Cosine Similarity: 0.6211
+Original: Act Utilitarianism
+Comparison: Case-by-Case Welfare Maximization
+Reformulation Strategies: expansion_compression, vocabulary_substitution, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_032 (false_negative)
+Cosine Similarity: 0.5766
+Original: Rule Utilitarianism
+Comparison: Systematic Welfare Optimization
+Reformulation Strategies: vocabulary_substitution, expansion_compression, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_033 (false_negative)
+Cosine Similarity: 0.6240
+Original: Maximizing Consequentialism
+Comparison: Peak Performance Ethics
+Reformulation Strategies: technical_colloquial_translation, vocabulary_substitution, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_034 (false_negative)
+Cosine Similarity: 0.6511
+Original: Satisficing Consequentialism
+Comparison: Adequacy Standards Ethics
+Reformulation Strategies: vocabulary_substitution, logical_equivalence_transformation, expansion_compression
+--------------------------------------------------------------------------------
+Pair ID: fn_035 (false_negative)
+Cosine Similarity: 0.6680
+Original: Scalar Consequentialism
+Comparison: Continuous Assessment Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_036 (false_negative)
+Cosine Similarity: 0.7354
+Original: Negative Utilitarianism
+Comparison: Harm Reduction Ethics
+Reformulation Strategies: vocabulary_substitution, logical_equivalence_transformation, syntactic_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_037 (false_negative)
+Cosine Similarity: 0.5567
+Original: Preference Utilitarianism
+Comparison: Desire Realization Ethics
+Reformulation Strategies: vocabulary_substitution, technical_colloquial_translation, expansion_compression
+--------------------------------------------------------------------------------
+Pair ID: fn_038 (false_negative)
+Cosine Similarity: 0.6283
+Original: Hedonistic Utilitarianism
+Comparison: Experiential Quality Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fn_039 (false_negative)
+Cosine Similarity: 0.6713
+Original: Ideal Utilitarianism
+Comparison: Multi-Value Ethics
+Reformulation Strategies: vocabulary_substitution, expansion_compression, logical_equivalence_transformation
+--------------------------------------------------------------------------------
+Pair ID: fn_040 (false_negative)
+Cosine Similarity: 0.6744
+Original: Actual Consequentialism
+Comparison: Historical Outcome Ethics
+Reformulation Strategies: vocabulary_substitution, syntactic_transformation, technical_colloquial_translation
+--------------------------------------------------------------------------------
+Pair ID: fp_001 (false_positive)
+Cosine Similarity: 0.9287
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Satisficing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from maximizing to satisficing requirement - actions need only produce sufficient rather than greatest utility
+--------------------------------------------------------------------------------
+Pair ID: fp_002 (false_positive)
+Cosine Similarity: 0.9470
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Weak Acceptance)
+Modification Type: Logical Operator Adjustment
+Key Difference: Removed biconditional 'if and only if' - rules can be justified by producing best consequences but this may not be the only justification
+--------------------------------------------------------------------------------
+Pair ID: fp_003 (false_positive)
+Cosine Similarity: 0.9775
+Original: Maximizing Consequentialism
+Comparison: Maximizing Consequentialism (Permissive)
+Modification Type: Scope Modification
+Key Difference: Changed from 'all' to 'most' suboptimal actions being wrong - allows for some suboptimal actions to be permissible
+--------------------------------------------------------------------------------
+Pair ID: fp_004 (false_positive)
+Cosine Similarity: 0.9590
+Original: Satisficing Consequentialism
+Comparison: Satisficing Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximizing' to 'optimizing' - optimizing allows for constraint satisfaction whereas maximizing is purely about achieving the highest value
+--------------------------------------------------------------------------------
+Pair ID: fp_005 (false_positive)
+Cosine Similarity: 0.9632
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Lexical)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'moral priority' to 'absolute priority' - creates lexical ordering where no amount of happiness can outweigh preventing suffering
+--------------------------------------------------------------------------------
+Pair ID: fp_006 (false_positive)
+Cosine Similarity: 0.9266
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Informed)
+Modification Type: Scope Modification
+Key Difference: Changed from 'actual' to 'informed' preferences - only preferences formed with adequate information count morally
+--------------------------------------------------------------------------------
+Pair ID: fp_007 (false_positive)
+Cosine Similarity: 0.9405
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Pluralistic)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'only' to 'primary' - allows for other intrinsic goods while maintaining pleasure's dominance
+--------------------------------------------------------------------------------
+Pair ID: fp_008 (false_positive)
+Cosine Similarity: 0.9583
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Incommensurable)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'aggregated' to 'ranked' - suggests ordinal rather than cardinal comparison of incommensurable goods
+--------------------------------------------------------------------------------
+Pair ID: fp_009 (false_positive)
+Cosine Similarity: 0.9551
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Prospective)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'retrospective' to 'objective' - removes temporal restriction on when evaluation can occur
+--------------------------------------------------------------------------------
+Pair ID: fp_010 (false_positive)
+Cosine Similarity: 0.9381
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Sufficient)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'highest' to 'sufficient' expected utility - satisficing rather than maximizing under uncertainty
+--------------------------------------------------------------------------------
+Pair ID: fp_011 (false_positive)
+Cosine Similarity: 0.9787
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some non-consequentialist factors in moral assessment
+--------------------------------------------------------------------------------
+Pair ID: fp_012 (false_positive)
+Cosine Similarity: 0.9479
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_013 (false_positive)
+Cosine Similarity: 0.9623
+Original: Prioritarianism
+Comparison: Prioritarianism (Lexical)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'priority' to 'absolute priority' - creates lexical ordering where benefits to worst off always trump benefits to better off
+--------------------------------------------------------------------------------
+Pair ID: fp_014 (false_positive)
+Cosine Similarity: 0.9599
+Original: Sufficientarianism
+Comparison: Sufficientarianism (Weak)
+Modification Type: Logical Operator Adjustment
+Key Difference: Removed 'or no' - maintains that distributions above threshold have some moral significance rather than potentially none
+--------------------------------------------------------------------------------
+Pair ID: fp_015 (false_positive)
+Cosine Similarity: 0.9478
+Original: Total Utilitarianism
+Comparison: Total Utilitarianism (Conditional)
+Modification Type: Threshold Introduction
+Key Difference: Added 'typically' - suggests there may be conditions under which adding lives worth living doesn't increase value
+--------------------------------------------------------------------------------
+Pair ID: fp_016 (false_positive)
+Cosine Similarity: 0.9475
+Original: Average Utilitarianism
+Comparison: Average Utilitarianism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximizing' to 'optimizing' - allows for constraint-sensitive rather than pure maximization of average utility
+--------------------------------------------------------------------------------
+Pair ID: fp_017 (false_positive)
+Cosine Similarity: 0.9612
+Original: Ethical Egoism
+Comparison: Ethical Egoism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some moral consideration of others' interests
+--------------------------------------------------------------------------------
+Pair ID: fp_018 (false_positive)
+Cosine Similarity: 0.9397
+Original: Universal Consequentialism
+Comparison: Universal Consequentialism (Weighted)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'equally' to 'proportionally' - allows for differential weighting based on capacity or other factors
+--------------------------------------------------------------------------------
+Pair ID: fp_019 (false_positive)
+Cosine Similarity: 0.9475
+Original: Progressive Consequentialism
+Comparison: Progressive Consequentialism (Significant)
+Modification Type: Threshold Introduction
+Key Difference: Added 'significantly' - requires improvements to meet a threshold rather than any improvement being sufficient
+--------------------------------------------------------------------------------
+Pair ID: fp_020 (false_positive)
+Cosine Similarity: 0.9107
+Original: Motive Consequentialism
+Comparison: Motive Consequentialism (Weak Priority)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'determines' to 'influences' - weakens the claim about motive priority in act evaluation
+--------------------------------------------------------------------------------
+Pair ID: fp_021 (false_positive)
+Cosine Similarity: 0.9622
+Original: Direct Consequentialism
+Comparison: Direct Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'only' to 'primarily' - allows for some non-consequentialist factors in act evaluation
+--------------------------------------------------------------------------------
+Pair ID: fp_022 (false_positive)
+Cosine Similarity: 0.9179
+Original: Indirect Consequentialism
+Comparison: Indirect Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_023 (false_positive)
+Cosine Similarity: 0.9571
+Original: Welfarist Consequentialism
+Comparison: Welfarist Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'Only' to 'Primarily' - allows for some non-welfare values to have intrinsic moral significance
+--------------------------------------------------------------------------------
+Pair ID: fp_024 (false_positive)
+Cosine Similarity: 0.9616
+Original: Perfectionist Consequentialism
+Comparison: Perfectionist Consequentialism (Optimizing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization of perfectionist goods
+--------------------------------------------------------------------------------
+Pair ID: fp_025 (false_positive)
+Cosine Similarity: 0.9534
+Original: State Consequentialism
+Comparison: State Consequentialism (Weighted)
+Modification Type: Threshold Introduction
+Key Difference: Added 'generally' - allows for exceptions where individual interests might take precedence
+--------------------------------------------------------------------------------
+Pair ID: fp_027 (false_positive)
+Cosine Similarity: 0.9929
+Original: Person-Affecting Consequentialism
+Comparison: Person-Affecting Consequentialism (Generally)
+Modification Type: Threshold Introduction
+Key Difference: Added 'generally' - allows for possible exceptions where creating happy lives might make outcomes better
+--------------------------------------------------------------------------------
+Pair ID: fp_028 (false_positive)
+Cosine Similarity: 0.9525
+Original: Objective List Consequentialism
+Comparison: Objective List Consequentialism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization of objective goods
+--------------------------------------------------------------------------------
+Pair ID: fp_029 (false_positive)
+Cosine Similarity: 0.9486
+Original: Agent-Relative Consequentialism
+Comparison: Agent-Relative Consequentialism (Strong)
+Modification Type: Critical Term Substitution
+Key Difference: Added 'Strong' before partiality - suggests more extensive agent-relative permissions than basic partiality
+--------------------------------------------------------------------------------
+Pair ID: fp_030 (false_positive)
+Cosine Similarity: 0.9700
+Original: Act Utilitarianism
+Comparison: Act Utilitarianism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'solely' to 'primarily' - allows for some non-consequentialist factors in determining rightness
+--------------------------------------------------------------------------------
+Pair ID: fp_031 (false_positive)
+Cosine Similarity: 0.9477
+Original: Rule Utilitarianism
+Comparison: Rule Utilitarianism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - suggests constraint-sensitive rather than pure maximization of utility
+--------------------------------------------------------------------------------
+Pair ID: fp_032 (false_positive)
+Cosine Similarity: 0.9619
+Original: Scalar Consequentialism
+Comparison: Scalar Consequentialism (Threshold)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'no' to 'few' sharp boundaries - allows for some threshold effects while maintaining scalar approach
+--------------------------------------------------------------------------------
+Pair ID: fp_033 (false_positive)
+Cosine Similarity: 0.9560
+Original: Negative Utilitarianism
+Comparison: Negative Utilitarianism (Satisficing)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'minimizes' to 'sufficiently reduces' - satisficing rather than maximizing approach to suffering reduction
+--------------------------------------------------------------------------------
+Pair ID: fp_034 (false_positive)
+Cosine Similarity: 0.9399
+Original: Preference Utilitarianism
+Comparison: Preference Utilitarianism (Rational)
+Modification Type: Scope Modification
+Key Difference: Changed from 'actual' to 'rational' preferences - only preferences meeting rationality criteria count morally
+--------------------------------------------------------------------------------
+Pair ID: fp_035 (false_positive)
+Cosine Similarity: 0.9581
+Original: Hedonistic Utilitarianism
+Comparison: Hedonistic Utilitarianism (Optimize)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize' to 'optimize' - allows for constraint-sensitive rather than pure maximization
+--------------------------------------------------------------------------------
+Pair ID: fp_036 (false_positive)
+Cosine Similarity: 0.9445
+Original: Ideal Utilitarianism
+Comparison: Ideal Utilitarianism (Sufficient)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'maximize the total amount' to 'realize sufficient amounts' - satisficing rather than maximizing approach
+--------------------------------------------------------------------------------
+Pair ID: fp_037 (false_positive)
+Cosine Similarity: 0.9668
+Original: Actual Consequentialism
+Comparison: Actual Consequentialism (Primarily)
+Modification Type: Critical Term Substitution
+Key Difference: Added 'primarily' - allows for some non-actual factors to influence rightness determination
+--------------------------------------------------------------------------------
+Pair ID: fp_038 (false_positive)
+Cosine Similarity: 0.9550
+Original: Expected Consequentialism
+Comparison: Expected Consequentialism (Reasonable)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'highest' to 'reasonable' - sets threshold rather than maximizing requirement
+--------------------------------------------------------------------------------
+Pair ID: fp_039 (false_positive)
+Cosine Similarity: 0.9701
+Original: Global Consequentialism
+Comparison: Global Consequentialism (Universal Application)
+Modification Type: Scope Modification
+Key Difference: Changed from 'All' to 'Most' - allows for some evaluative focal points to escape consequentialist assessment
+--------------------------------------------------------------------------------
+Pair ID: fp_040 (false_positive)
+Cosine Similarity: 0.9349
+Original: Virtue Consequentialism
+Comparison: Virtue Consequentialism (Partial Reduction)
+Modification Type: Critical Term Substitution
+Key Difference: Changed from 'entirely' to 'largely' - allows for some non-consequentialist factors in virtue evaluation
+--------------------------------------------------------------------------------
