@@ -1,4 +1,4 @@
-# Graph Merger: Philosophical Position Similarity Analysis
+# Philosophical Position Similarity Analysis
 
 A comprehensive toolkit for analyzing semantic similarity between philosophical positions using multiple embedding-based approaches, designed to evaluate position merging algorithms and detect false positives/negatives in philosophical reasoning systems.
 
@@ -168,6 +168,37 @@ All results are saved to `evals/results/` directory:
 - Uses Hungarian algorithm for optimal objection matching
 - Weighted combination: `α × node_similarity + (1-α) × children_similarity`
 - Most comprehensive analysis for complex philosophical arguments
+
+#### The Hungarian Algorithm in Hierarchical Analysis
+
+The **Hungarian algorithm** (also known as the Munkres algorithm) is a combinatorial optimization algorithm that solves the assignment problem in polynomial time. In this project, it plays a crucial role in matching objections and sub-arguments between philosophical positions.
+
+**Why the Hungarian Algorithm?**
+
+When comparing two philosophical positions that each have multiple objections or sub-arguments (children), we face the challenge of determining which objections should be compared with which. A naive approach might compare objections in order, but this could miss the most meaningful similarities.
+
+**How it works in this context:**
+
+1. **Cost Matrix Construction**: For each pair of positions with children, we create a cost matrix where:
+   - Rows represent objections from the first position
+   - Columns represent objections from the second position  
+   - Each cell contains the dissimilarity score (1 - cosine_similarity) between objection embeddings
+
+2. **Optimal Assignment**: The Hungarian algorithm finds the assignment of objections that minimizes the total cost, ensuring:
+   - Each objection from position A is matched with exactly one objection from position B
+   - The overall matching maximizes semantic similarity across all objection pairs
+
+3. **Similarity Calculation**: Once optimal matches are found, we calculate:
+   - `children_similarity = 1 - (total_minimum_cost / number_of_matches)`
+   - `final_similarity = α × node_similarity + (1-α) × children_similarity`
+
+**Example**: If Position A has objections about "moral intuitions" and "practical consequences", and Position B has objections about "utilitarian calculus" and "ethical intuitions", the Hungarian algorithm will optimally match "moral intuitions" with "ethical intuitions" and "practical consequences" with "utilitarian calculus", rather than comparing them in arbitrary order.
+
+**Benefits:**
+- **Optimal Matching**: Guarantees the best possible pairing of objections
+- **Semantic Awareness**: Matches conceptually similar objections rather than positionally similar ones
+- **Robustness**: Handles positions with different numbers of objections gracefully
+- **Efficiency**: O(n³) complexity
 
 ## Project Structure
 
